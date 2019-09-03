@@ -15,8 +15,11 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- list 1
+- List 2
+- Great Teachers
+- Good Classmates
+- Good friends
 
 1. Numbered
 2. List
